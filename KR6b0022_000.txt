@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 德光太子經
+#+DATE: 2015-08-30 19:34:01.907614
+#+PROPERTY: JUAN 0
